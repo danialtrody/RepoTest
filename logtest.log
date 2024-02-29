@@ -1,0 +1,6 @@
+2024-02-29 21:59:54.830403130 - Repo Folder Created: RepoTest
+2024-02-29 21:59:54.830403130 - https://github.com/Telhai-Git/LinuxFiles/archive/refs/tags/Data.tar.gz downloaded
+Files in the extracted folder:
+total 8
+drwxrwxr-x 2 danial danial 4096 Feb 20 19:23 LinuxFiles-Data
+-rw-rw-r-- 1 danial danial  207 Feb 29 21:59 logtest.log
