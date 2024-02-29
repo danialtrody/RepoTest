@@ -4,3 +4,51 @@ Files in the extracted folder:
 total 8
 drwxrwxr-x 2 danial danial 4096 Feb 20 19:23 LinuxFiles-Data
 -rw-rw-r-- 1 danial danial  207 Feb 29 21:59 logtest.log
+BR_IMAGES branch history:
+commit 74b3cd528161866c88a4697e0da4acd87e993598
+Author: danialTrody <trody2001@gmail.com>
+Date:   Thu Feb 29 21:59:58 2024 +0200
+
+    Added image files to repository in BR_IMAGES branch
+
+commit 0ff7a11966b3cb4ff55de8aeff7255009b785613
+Author: danialTrody <trody2001@gmail.com>
+Date:   Thu Feb 29 21:59:58 2024 +0200
+
+    Initial commit
+BR_TEXT branch history:
+commit c8163c6c2f205e3986e72445d0a8e418dd43ea98
+Author: danialTrody <trody2001@gmail.com>
+Date:   Thu Feb 29 21:59:58 2024 +0200
+
+    Added text and log files to repository in BR_TEXT branch
+
+commit 74b3cd528161866c88a4697e0da4acd87e993598
+Author: danialTrody <trody2001@gmail.com>
+Date:   Thu Feb 29 21:59:58 2024 +0200
+
+    Added image files to repository in BR_IMAGES branch
+
+commit 0ff7a11966b3cb4ff55de8aeff7255009b785613
+Author: danialTrody <trody2001@gmail.com>
+Date:   Thu Feb 29 21:59:58 2024 +0200
+
+    Initial commit
+master branch history:
+commit c8163c6c2f205e3986e72445d0a8e418dd43ea98
+Author: danialTrody <trody2001@gmail.com>
+Date:   Thu Feb 29 21:59:58 2024 +0200
+
+    Added text and log files to repository in BR_TEXT branch
+
+commit 74b3cd528161866c88a4697e0da4acd87e993598
+Author: danialTrody <trody2001@gmail.com>
+Date:   Thu Feb 29 21:59:58 2024 +0200
+
+    Added image files to repository in BR_IMAGES branch
+
+commit 0ff7a11966b3cb4ff55de8aeff7255009b785613
+Author: danialTrody <trody2001@gmail.com>
+Date:   Thu Feb 29 21:59:58 2024 +0200
+
+    Initial commit
